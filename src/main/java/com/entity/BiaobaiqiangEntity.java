@@ -30,6 +30,7 @@ import com.baomidou.mybatisplus.enums.IdType;
  */
 @TableName("biaobaiqiang")
 public class BiaobaiqiangEntity<T> implements Serializable {
+
 	private static final long serialVersionUID = 1L;
 
 
