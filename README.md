@@ -2,36 +2,37 @@
 
 #### 介绍
 基于Springboot实现的校园综合服务平台
+本系统实现了以校园生活为中心的学科竞赛、校园兼职、失物招领等相关信息服务，为师生的校园生活提供一个便捷的服务平台。
 
 #### 软件架构
-软件架构说明
-
+前端：VUE+Element UI
+后端：SpringBoot+SSM
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  拉取项目到本地编辑器
+2.  导入数据库文件
+3.  修改数据库配置信息
+4.  运行项目
+5.  项目模块截图
+  5.1 首页
+![输入图片说明](image.png)
+  5.2 分享墙
+![输入图片说明](share.png)
+  5.3 失物招领
+![输入图片说明](shi.png)
+  5.4 校园兼职
+![输入图片说明](jianzhi.png)
+  5.5 学科竞赛
+![输入图片说明](compete.png)
+  5.6 后台登录界面
+![输入图片说明](login.png)
+  5.7 后台管理
+![输入图片说明](admin.png)
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  项目功能完善，可作为毕设项目
+2.  有完整论文相关文档，答辩PPT等
+3.  有需要可远程调试：联系QQ 35890226
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
